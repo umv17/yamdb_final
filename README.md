@@ -2,7 +2,7 @@
 # API_YAMDB
 Проект для сервиса YaMDb — сбор отзывов о фильмах, книгах или музыке.
 
-[Пример сервера](https://umika.ddns.net/admin/)
+[Пример сервера](http://umika.ddns.net/admin/)
 
 ## Описание
 
