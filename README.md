@@ -12,7 +12,7 @@
 
 ### Документация по проекту API YaMDb
 
-[Доступна по адрессу] http://umika.ddns.net/redoc/
+[Доступна по адрессу](http://umika.ddns.net/redoc/)
 
 
 ### Запуск проект:
